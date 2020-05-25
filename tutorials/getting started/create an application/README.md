@@ -2,20 +2,20 @@
 
 ### Tutorials
 
-* [Part 1: Creating your first Honeycomb Web Application](https://github.com/Schalltech/honeycomb-tutorials/tree/master/tutorials/getting%20started/create%20an%20application#part-1-how-to-create-your-first-honeycomb-web-application)
+* [Part 1: Creating your first Honeycomb Application](https://github.com/Schalltech/honeycomb-tutorials/tree/master/tutorials/getting%20started/create%20an%20application#part-1-how-to-create-your-first-honeycomb-web-application)
 
-## Part 1: How to create your first Honeycomb web application
+## Part 1: How to create your first Honeycomb Application
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-11.png">
 
 In the following tutorial you'll learn:
 
-* how to create a basic Honeycomb Web Application
-* how to add a page to your Honeycomb Web Application
+* how to create a basic Honeycomb Application
+* how to add a page to your Honeycomb Application
 * how to add a micro app to a pages layout
 * how to style a micro apps container
 * how to configure a route to navigate to your page
-* how to access your Honeycomb Web Application on the cloud
+* how to access your Honeycomb Application on the cloud
 
 Micro apps you will use in this tutorial
 
