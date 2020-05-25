@@ -134,7 +134,7 @@ Your application should now be displayed within a new browser window! While host
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-11.png">
 
-Thats it! You have successfully created your first basic Honeycomb Web Application!
+Thats it! You have successfully created your first basic Honeycomb Application!
 
 #### Tutorial Recap
 In this tutorial we covered how to create a basic Honeycomb Application. We demonstrated how to add pages to an application, configure their layout with micro apps and provide basic styling. We then reviewed how to create routes to allow users to access the content from the browser and finally how to access the created application from the Honeycomb Cloud.
