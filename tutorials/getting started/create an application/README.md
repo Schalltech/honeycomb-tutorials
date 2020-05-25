@@ -27,7 +27,9 @@ ma-label | The label micro app represents a caption for an item in a user interf
 Creating applications with micro apps is fast and easy when using Honeycomb Studio. 
 
 #### Step 1: Login
-To get started, log in to your Honeycomb Studio account. 
+To get started, log in to your Honeycomb Studio account. If you have not created an account, you will need to do so before continuing to the next step.
+
+https://microapp.studio
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-0.png">
 
