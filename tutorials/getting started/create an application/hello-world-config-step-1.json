@@ -1,9 +1,0 @@
-{
-    "Layout": {
-        "View": {
-            "Name": "ma-label",
-            "Version": "0.0.0-beta.27"
-        },
-        "DefaultValue": "Hello World!"
-    }
-}
