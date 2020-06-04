@@ -94,7 +94,7 @@ After commiting your changes, select the preview tab to review the layout you ju
 
 Success! If everything was configured correctly, you should now see "Hello World!" displayed within the top left corner of the page.
 
-#### Step 6: Styling a micro apps container
+#### Step 7: Styling a micro apps container
 So far, we have managed to add a label micro app to the configuration and display the text "Hello World!" within the page. Lets do some basic styling to show the label centered within the page instead of displaying it in the top left corner.
 
 To display the label in the center of the screen, we need to add the below section to the micro apps configuration.
@@ -118,7 +118,7 @@ Once you have updated your configuration, click the commit changes button. Now y
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-6.b.png">
 
-#### Step 6: Configure a route to navigate to your page
+#### Step 8: Configure a route to navigate to your page
 Congratulations! At this point, you have successfully added a page to your application and configured its layout. There is still an issue of accessing the page and your application from a browser. In this step, we will add a route that will allow users to access your applications page from the browser.
 
 First, click the "HelloWorld" breadcrumb link in the top left corner of the studio to navigate back to the application admin screen. From the application admin screen, select the Routes tab. The routes tab allows you to manage all the routes your application supports to navigate between its pages. Click the "add route" link to add a new route.
@@ -127,7 +127,7 @@ The page field of the route contains a list of all the pages configured for your
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-7.png">
 
-#### Step 7: Access your application on the Honeycomb Cloud
+#### Step 9: Access your application on the Honeycomb Cloud
 Your almost there! All that is left is to access your application from the Honeycomb Cloud. Click your account link from the pages breadcrumb to return to your account profile. Select the Applications tab on your account page. This will show your new Hello World in the application list. To access your application on the cloud, click the applications launch button.
 
 <img src="https://raw.githubusercontent.com/Schalltech/honeycomb-tutorials/master/tutorials/getting%20started/create%20an%20application/images/create-app-8.png">
