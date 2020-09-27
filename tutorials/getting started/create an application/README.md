@@ -73,6 +73,7 @@ Adding the above configuration does not do much except define the container that
 {
     "View": {
         "Name": "ma-label",
+        "Scope": "schalltech",
         "Version": "0.0.0-beta.27"
     },
     "DefaultValue": "Hello World!"
